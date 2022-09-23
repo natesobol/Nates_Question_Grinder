@@ -1,0 +1,10 @@
+C:\Users\Nate\source\repos\Question Grinder\bin\Debug\Question Grinder.exe.config
+C:\Users\Nate\source\repos\Question Grinder\bin\Debug\Question Grinder.exe
+C:\Users\Nate\source\repos\Question Grinder\bin\Debug\Question Grinder.pdb
+C:\Users\Nate\source\repos\Question Grinder\obj\Debug\Question Grinder.csprojAssemblyReference.cache
+C:\Users\Nate\source\repos\Question Grinder\obj\Debug\Question_Grinder.Properties.Resources.resources
+C:\Users\Nate\source\repos\Question Grinder\obj\Debug\Question Grinder.csproj.GenerateResource.cache
+C:\Users\Nate\source\repos\Question Grinder\obj\Debug\Question Grinder.csproj.CoreCompileInputs.cache
+C:\Users\Nate\source\repos\Question Grinder\obj\Debug\Question Grinder.exe
+C:\Users\Nate\source\repos\Question Grinder\obj\Debug\Question Grinder.pdb
+C:\Users\Nate\source\repos\Question Grinder\obj\Debug\Question_Grinder.Form1.resources
